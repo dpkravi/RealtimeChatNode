@@ -46,7 +46,6 @@ $(function(){
 
 	// on connection to server get the id of person's room
 	socket.on('connect', function(){
-
 		socket.emit('load', id);
 	});
 
