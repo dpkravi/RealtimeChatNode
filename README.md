@@ -1,4 +1,4 @@
-# RealtimeChatNode
+# Ossu! - Realtime NodeJS Chat
 Learning how to create a realtime chat system using Node.js and Socket.IO 
 
 [Demo](http://glacial-plains-68455.herokuapp.com/)
